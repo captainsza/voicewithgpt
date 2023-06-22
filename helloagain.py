@@ -11,7 +11,7 @@ from pydub.playback import play
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:\\Users\\pc\\MYprojects\\HelloAgain\\helloagain-386707-b72ca861d6f6.json"
 
-openai.api_key = "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"
+openai.api_key = "your openai api"
 
 def record_voice_input():
 
